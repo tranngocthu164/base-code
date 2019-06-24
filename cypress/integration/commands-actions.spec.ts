@@ -12,3 +12,5 @@ describe('Test commands- actions page', () => {
     action.inputEmailAddress('abc@abc.com')
   })
 })
+
+//Add new comment
