@@ -1,0 +1,13 @@
+{
+    "include": [
+        "integration/*.ts",
+        "support/*.ts",
+        "helpers/*.ts",
+        "../node_modules/cypress", "helpers/resources.ts", "support/pages/actionscommands.ts"
+    ],
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "skipLibCheck": true
+    }
+}
