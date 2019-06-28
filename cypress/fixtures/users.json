@@ -1,0 +1,10 @@
+{
+    "admistrator": {
+      "username": "appocalypse.admin",
+      "password": "Password01"
+    },
+    "regulator": {
+      "username": "redskull.regulator",
+      "password": "Password01"
+    }
+  }

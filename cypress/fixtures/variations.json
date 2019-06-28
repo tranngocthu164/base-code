@@ -1,0 +1,410 @@
+{
+    "modelVariations": [//nếu không chọn option là iSAP và SA thì trỏ tới khai báo này
+      {
+        "_id": "5a1b5ff0a421f70001ed86fa",
+        "updatedAt": "2017-11-27T00:44:32.955Z",
+        "createdAt": "2017-11-27T00:44:32.955Z",
+        "specificationNumber": "59.B0026",
+        "variationNumber": 1,
+        "minimumRTP": 90.02,
+        "maximumRTP": 90.02,
+        "maximumBet": 1000,
+        "endApprovalDate": null,
+        "lastUpdated": "2017-07-09T14:00:00.000Z",
+        "lastUpdatedBy": "GAMESQL ",
+        "status": "active",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 2,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "_id": "5a1b5ffba421f70001ed8b46",
+        "updatedAt": "2017-11-27T00:44:43.954Z",
+        "createdAt": "2017-11-27T00:44:43.954Z",
+        "specificationNumber": "59.B0026",
+        "variationNumber": 2,
+        "minimumRTP": 90.15,
+        "maximumRTP": 90.15,
+        "maximumBet": 1000,
+        "endApprovalDate": null,
+        "lastUpdated": "2017-07-09T14:00:00.000Z",
+        "lastUpdatedBy": "GAMESQL ",
+        "status": "inactive",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 2,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "_id": "5a1b5ffea421f70001ed8c4a",
+        "updatedAt": "2017-11-27T00:44:46.431Z",
+        "createdAt": "2017-11-27T00:44:46.431Z",
+        "specificationNumber": "59.B0026",
+        "variationNumber": 3,
+        "minimumRTP": 90.17,
+        "maximumRTP": 90.17,
+        "maximumBet": 1000,
+        "endApprovalDate": null,
+        "lastUpdated": "2017-07-09T14:00:00.000Z",
+        "lastUpdatedBy": "GAMESQL ",
+        "status": "active",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 2,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "_id": "5a1b5feda421f70001ed859b",
+        "updatedAt": "2017-11-27T00:44:29.355Z",
+        "createdAt": "2017-11-27T00:44:29.355Z",
+        "specificationNumber": "59.B0026",
+        "variationNumber": 4,
+        "minimumRTP": 91.1,
+        "maximumRTP": 91.1,
+        "maximumBet": 1000,
+        "endApprovalDate": null,
+        "lastUpdated": "2017-07-09T14:00:00.000Z",
+        "lastUpdatedBy": "GAMESQL ",
+        "status": "active",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 2,
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "_id": "5a1b5ffba421f70001ed8b4c",
+        "updatedAt": "2017-11-27T00:44:43.972Z",
+        "createdAt": "2017-11-27T00:44:43.972Z",
+        "specificationNumber": "59.B0026",
+        "variationNumber": 5,
+        "minimumRTP": 91.23,
+        "maximumRTP": 91.23,
+        "maximumBet": 1000,
+        "endApprovalDate": null,
+        "lastUpdated": "2017-07-09T14:00:00.000Z",
+        "lastUpdatedBy": "GAMESQL ",
+        "status": "active",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 2,
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "_id": "5a1b5ffba421f70001ed8b4f",
+        "updatedAt": "2017-11-27T00:44:43.982Z",
+        "createdAt": "2017-11-27T00:44:43.982Z",
+        "specificationNumber": "59.B0026",
+        "variationNumber": 6,
+        "minimumRTP": 91.25,
+        "maximumRTP": 91.25,
+        "maximumBet": 1000,
+        "endApprovalDate": null,
+        "lastUpdated": "2017-07-09T14:00:00.000Z",
+        "lastUpdatedBy": "GAMESQL ",
+        "status": "active",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 2,
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "_id": "5a1b5ff7a421f70001ed8983",
+        "updatedAt": "2017-11-27T00:44:39.268Z",
+        "createdAt": "2017-11-27T00:44:39.268Z",
+        "specificationNumber": "59.B0026",
+        "variationNumber": 8,
+        "minimumRTP": 92.18,
+        "maximumRTP": 92.18,
+        "maximumBet": 1000,
+        "endApprovalDate": null,
+        "lastUpdated": "2017-07-09T14:00:00.000Z",
+        "lastUpdatedBy": "GAMESQL ",
+        "status": "inactive",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 2,
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "_id": "5a1b5fefa421f70001ed8683",
+        "updatedAt": "2017-11-27T00:44:31.843Z",
+        "createdAt": "2017-11-27T00:44:31.843Z",
+        "specificationNumber": "59.B0026",
+        "variationNumber": 9,
+        "minimumRTP": 92.19,
+        "maximumRTP": 92.19,
+        "maximumBet": 1000,
+        "endApprovalDate": null,
+        "lastUpdated": "2017-07-09T14:00:00.000Z",
+        "lastUpdatedBy": "GAMESQL ",
+        "status": "inactive",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 2,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "modelVariations_iSAP_legacy_mixed": [
+      {
+        "_id": "5a1b5cdba421f70001ec815c",
+        "updatedAt": "2019-05-20T05:53:22.104Z",
+        "createdAt": "2017-11-27T00:31:23.913Z",
+        "specificationNumber": "1.0000A",
+        "variationNumber": 99,
+        "minimumRTP": 42,
+        "maximumRTP": 42,
+        "maximumBet": 0,
+        "endApprovalDate": null,
+        "lastUpdated": "2019-05-20T13:00:00.000Z",
+        "lastUpdatedBy": "",
+        "status": "active",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "_id": "5a1b5cdda421f70001ec81fa",
+        "updatedAt": "2019-02-20T00:31:25.741Z",
+        "createdAt": "2017-11-27T00:31:25.741Z",
+        "specificationNumber": "1.0000A",
+        "variationNumber": 1,
+        "minimumRTP": 85.11,
+        "maximumRTP": 90.27,
+        "maximumBet": 350,
+        "endApprovalDate": null,
+        "lastUpdated": "2019-02-201T13:00:00.000Z",
+        "lastUpdatedBy": "RUI     ",
+        "status": "inactive",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "_id": "5a1b5cd8a421f70001ec8075",
+        "updatedAt": "2019-05-20T00:31:20.182Z",
+        "createdAt": "2017-11-27T00:31:20.182Z",
+        "specificationNumber": "1.0000A",
+        "variationNumber": 2,
+        "minimumRTP": 89.99,
+        "maximumRTP": 90.03,
+        "maximumBet": 350,
+        "endApprovalDate": null,
+        "lastUpdated": "2019-05-20T13:00:00.000Z",
+        "lastUpdatedBy": "RUI     ",
+        "status": "active",
+        "__v": 0,
+        "inActiveVersions": "test",
+        "bcvs": [
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "modelVariations_SA_legacy_mixed": [
+      {
+        "_id": "5a1b5cb8a421f70001ec77ab",
+        "updatedAt": "2019-05-20T05:53:22.104Z",
+        "createdAt": "2017-11-27T00:30:48.374Z",
+        "specificationNumber": "1.A0155",
+        "variationNumber": 99,
+        "minimumRTP": 40,
+        "maximumRTP": 40,
+        "maximumBet": 0,
+        "endApprovalDate": null,
+        "lastUpdated": "2019-05-20T05:53:22.104Z",
+        "lastUpdatedBy": "",
+        "status": "active",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 5,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 2,
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "_id": "5a1b5cb4a421f70001ec7692",
+        "updatedAt": "2019-02-20T23:55:17.256Z",
+        "createdAt": "2017-11-27T00:30:44.252Z",
+        "specificationNumber": "1.0000A",
+        "variationNumber": 1,
+        "minimumRTP": 90.01,
+        "maximumRTP": 90.19,
+        "maximumBet": 200,
+        "endApprovalDate": null,
+        "lastUpdated": "2019-02-20T23:55:17.256Z",
+        "lastUpdatedBy": "RUI     ",
+        "status": "inactive",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 2,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 5,
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "_id": "5a1b5cbba421f70001ec784d",
+        "updatedAt": "2019-05-20T23:55:17.256Z",
+        "createdAt": "2017-11-27T00:30:51.161Z",
+        "specificationNumber": "1.0000A",
+        "variationNumber": 2,
+        "minimumRTP": 79.99,
+        "maximumRTP": 80.03,
+        "maximumBet": 200,
+        "endApprovalDate": null,
+        "lastUpdated": "2019-05-20T23:55:17.256Z",
+        "lastUpdatedBy": "RUI     ",
+        "status": "active",
+        "inActiveVersions": "test",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 5,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 2,
+            "status": "active"
+          },
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          }
+        ]
+      }
+    ],
+    "modelVariations_for_SettingCombinations": [
+      {
+        "_id": "5a1b5cb8a421f70001ec77ab",
+        "updatedAt": "2019-05-20T05:53:22.104Z",
+        "createdAt": "2017-11-27T00:30:48.374Z",
+        "specificationNumber": "1.A0155",
+        "variationNumber": 99,
+        "minimumRTP" : 40,
+        "maximumRTP" : 40,
+        "minFeaturePRTP" : 29,
+        "maxFeaturePRTP" : 29,
+        "sapPRTP" : 20,
+        "maximumBet" : 0,
+        "endApprovalDate": null,
+        "lastUpdated": "2019-05-20T05:53:22.104Z",
+        "lastUpdatedBy": "",
+        "status": "active",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          }
+        ]
+      },
+      {
+        "_id": "5a1b5cb8a421f70001ec77ac",
+        "updatedAt": "2019-05-20T05:53:22.104Z",
+        "createdAt": "2017-11-27T00:30:48.374Z",
+        "specificationNumber": "1.A0155",
+        "variationNumber": 1,
+        "minimumRTP" : 40,
+        "maximumRTP" : 40,
+        "minFeaturePRTP" : 29,
+        "maxFeaturePRTP" : 29,
+        "sapPRTP" : 20,
+        "maximumBet" : 0,
+        "endApprovalDate": null,
+        "lastUpdated": "2019-05-20T05:53:22.104Z",
+        "lastUpdatedBy": "",
+        "status": "active",
+        "__v": 0,
+        "bcvs": [
+          {
+            "baseCreditValue": 1,
+            "status": "active"
+          }
+        ]
+      }
+    ]
+  }
