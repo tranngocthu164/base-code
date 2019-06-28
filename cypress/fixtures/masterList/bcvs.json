@@ -1,0 +1,93 @@
+{
+    "modelBcvs": {
+      "1" : [{
+        "_id": "5b97016acfab64120fc7654c",
+        "updatedAt": "2018-12-03T00:23:25.948Z",
+        "createdAt": "2018-09-10T23:42:34.330Z",
+        "baseCreditValue": 1,
+        "lastUpdatedBy": "Appocalypse Admin",
+        "maximumBet": 400,
+        "specificationNumber": "1.ModelA",
+        "status": "active",
+        "variationNumber": 99,
+        "inActiveVersions": [],
+        "__v": 0,
+        "lastUpdated": "2018-09-10T23:44:41.157Z",
+        "endApprovalDate": null
+      },
+      {
+        "_id": "5b97016ecfab6493b7c76550",
+        "updatedAt": "2018-12-03T00:23:26.072Z",
+        "createdAt": "2018-09-10T23:42:38.816Z",
+        "baseCreditValue": 2,
+        "lastUpdatedBy": "Appocalypse Admin",
+        "maximumBet": 400,
+        "specificationNumber": "1.ModelA",
+        "status": "active",
+        "variationNumber": 99,
+        "inActiveVersions": [],
+        "__v": 0,
+        "lastUpdated": "2018-09-10T23:44:41.157Z",
+        "endApprovalDate": null
+      },
+      {
+        "_id": "5b970173cfab64f28cc76554",
+        "updatedAt": "2018-12-03T00:23:26.209Z",
+        "createdAt": "2018-09-10T23:42:43.297Z",
+        "baseCreditValue": 5,
+        "lastUpdatedBy": "Appocalypse Admin",
+        "maximumBet": 400,
+        "specificationNumber": "1.ModelA",
+        "status": "active",
+        "variationNumber": 99,
+        "inActiveVersions": [],
+        "__v": 0,
+        "lastUpdated": "2018-09-10T23:44:41.157Z",
+        "endApprovalDate": null
+      }],
+  
+      "2": [
+        {
+          "_id": "5bbad02c2c50e42354443b45",
+          "updatedAt": "2018-12-03T00:23:26.309Z",
+          "createdAt": "2018-10-08T03:34:04.741Z",
+          "baseCreditValue": 40,
+          "lastUpdated": "2018-10-08T03:33:59.272Z",
+          "lastUpdatedBy": "Appocalypse Admin",
+          "maximumBet": 0,
+          "specificationNumber": "1.ModelA",
+          "status": "active",
+          "variationNumber": 3,
+          "inActiveVersions": [],
+          "__v": 0
+        },
+        {
+          "_id": "5bbad02d2c50e49fa9443b46",
+          "updatedAt": "2018-12-03T00:23:26.386Z",
+          "createdAt": "2018-10-08T03:34:05.041Z",
+          "baseCreditValue": 43,
+          "lastUpdated": "2018-10-08T03:33:59.272Z",
+          "lastUpdatedBy": "Appocalypse Admin",
+          "maximumBet": 0,
+          "specificationNumber": "1.ModelA",
+          "status": "active",
+          "variationNumber": 3,
+          "inActiveVersions": [],
+          "__v": 0
+        },
+        {
+          "_id": "5bbad02d2c50e44d41443b48",
+          "updatedAt": "2018-12-03T00:23:26.457Z",
+          "createdAt": "2018-10-08T03:34:05.236Z",
+          "baseCreditValue": 44,
+          "lastUpdated": "2018-10-08T03:33:59.272Z",
+          "lastUpdatedBy": "Appocalypse Admin",
+          "maximumBet": 0,
+          "specificationNumber": "1.ModelA",
+          "status": "active",
+          "variationNumber": 3,
+          "inActiveVersions": [],
+          "__v": 0
+        }]
+    }
+  }

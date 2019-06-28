@@ -72,7 +72,7 @@ declare namespace Cypress {
        * @example
        * cy.visitPage(profile)
        */
-      visitPage(profile: import('../support/commands/login').Profile): any
+      visitPage(profile: import('./commands/login').Profile): any
     }
   }
   

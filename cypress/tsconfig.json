@@ -1,11 +1,14 @@
 {
     "include": [
-        "integration/*.ts",
-        "support/*.ts",
-        "helpers/*.ts",
-        "../node_modules/cypress", "helpers/resources.ts", "support/pages/actionscommands.ts"
+        "**/*.ts"
     ],
     "compilerOptions": {
+        "allowJs": true,
+        "baseUrl": "../node_modules",
+        "types": [
+          "cypress",
+          "./support"],
+          //phần dưới này viết thêm vào
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
         "skipLibCheck": true
